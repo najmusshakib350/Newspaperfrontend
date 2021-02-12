@@ -1,0 +1,111 @@
+.thumnaila{
+    height:35rem;
+}
+.thumnail-text p{
+    color:#222 !important;
+    font-family: "Lato";
+    font-size: 1rem; 
+}
+.thumnail-text h1{
+    font-family: "Roboto Mono";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.thumnaila-img{
+    background-color: violet;
+    width: 100%;
+    height: 100%; 
+    position:relative;
+}
+.thumnaila h2{
+    position:absolute;
+    bottom:0;
+    left:0;
+    color:#fff;
+    font-size: 1.5rem;
+    padding:0.5rem;
+    background:#e6b045;
+}
+.postcarousel{
+    padding:1rem 0.5rem;
+    border: 2px solid #bfbcaa;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.postcarousel h1{
+    font-family: "Roboto Mono";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.horizontal-line{
+    display:inline-block;
+    width:50%;
+    height: 0.5rem;
+    background: #ada053;
+}
+.carousel-indicators li{
+    background-color: #c4ae7e !important;
+    padding: 0.1rem;
+    width: 20px !important;
+}
+.carousel-caption{
+    position:unset !important;
+}
+.carousel-caption h3{
+    text-align:left;
+    font-family:"Lato";
+    font-weight: bold;
+    font-size: 1.5rem;
+    color:#e8af43;
+}
+.carousel-caption p{
+    text-align:left;
+    font-family:"Lato";
+    font-size: 1rem;
+    color:#222 !important;
+}
+.searchpost{
+    border: 2px solid #bfbcaa;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:2rem 0.5rem;
+}
+.searchpost h1{
+    font-family:"Lato";
+    font-weight: bold;
+    font-size: 1.5rem;
+    color:#222;
+}
+.blogcategory h1{
+    font-family:"Lato";
+    font-weight: bold;
+    font-size: 1.5rem;
+    color:#222;
+}
+.blogcategory{
+    border: 2px solid #bfbcaa;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:2rem 0.5rem;
+}
+.category-line{
+    width:80%;
+    height:2px;
+    background:#999;
+}
+.tagname{
+    border: 2px solid #bfbcaa;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:2rem 0.5rem;
+}
+.tagname .tagp{
+    flex-wrap: wrap
+}
+.carousel-caption p{
+    color:#222;
+}
+.thumnail-img{
+    width:100%;
+    height:100%
+}
+.carosel-img{
+    width:100%;
+    height:100%
+}

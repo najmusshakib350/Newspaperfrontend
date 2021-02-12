@@ -1,0 +1,7 @@
+.posthome{
+    background-image: url("./../../assets/blogbackground.jpg");
+    padding:6rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
